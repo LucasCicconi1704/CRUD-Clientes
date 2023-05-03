@@ -18,5 +18,9 @@
   "bugs": {
     "url": ""
   },
-  "homepage": ""
+  "homepage": "",
+  "dependencies": {
+    "browser-sync": "^2.29.1",
+    "json-server": "^0.17.3"
+  }
 }
